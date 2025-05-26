@@ -10,7 +10,7 @@ Made with Python and CustomTkinter for a modern experience.
 ✅ Clean fullscreen UI  
 ✅ Spotify track display (optional)
 
-⚠ Im gonna rework the Music Tracking in a future release as Spotify doesn't allow developper anymore to have a production key (it requires 250k monthly users) before you can requet to publish with a production key There for the app will only support the timer and the music tracking will only be for a select few [Thanks for understanding ♥]
+⚠ Im gonna rework the Music Tracking in a future release as Spotify doesn't allow developers anymore to have a production key (it requires 250k monthly users) before you can requet to publish with a production key There for the app will only support the timer and the music tracking will only be for a select few [Thanks for understanding ♥]
 ---
 
 ## 📦 Download
