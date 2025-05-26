@@ -38,7 +38,7 @@ Download the latest **Windows executable** here:
 - 🖥️ **Fullscreen, clean UI**
   - Hidden mouse
   - Big timer (Poppins font)
-  - Responsive even during login
+  - Responsive
 - 🔐 **Unlock shortcut:** `Ctrl + O + P`
 
 ---
