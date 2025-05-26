@@ -29,7 +29,6 @@ Download the latest **Windows executable** here:
 
 ⚠ The Unlock shortcut is `Ctrl + O + P`
 ---
-![image](https://github.com/user-attachments/assets/83f74915-be44-47c3-9cc1-7f7d42d9fd05)
 
 ## 🔧 Features
 
@@ -43,7 +42,10 @@ Download the latest **Windows executable** here:
 - 🔐 **Unlock shortcut:** `Ctrl + O + P`
 
 ---
-
+### 🖼 Screen Shots
+-Home Gui:
+![Home GUI](https://github.com/user-attachments/assets/83f74915-be44-47c3-9cc1-7f7d42d9fd05)
+---
 ## 🛠️ Setup (For Developers)
 Make sure you have Python 3:
 ```bash
