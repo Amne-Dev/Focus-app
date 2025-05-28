@@ -2,15 +2,21 @@
 
 # 🎯 Focus App 
 
-A fullscreen, system-wide input-blocking focus timer with optional Spotify integration.  
+A fullscreen, system-wide input-blocking focus timer with Media integration.  
 Made with Python and CustomTkinter for a modern experience.  
 
 ✅ Designed for productivity  
 ✅ Blocks distractions  
 ✅ Clean fullscreen UI  
-✅ Spotify track display (optional)
+✅ Music track display for:
+        -The Spotify App
+        -Groove Music
+        -WMP
+        -iTunes Windows Integration
+        -VLC Media Player (Enable: media contols in VLC settings)
+        -Youtube/Browser Media (MS Edge only)
 
-⚠ Im gonna rework the Music Tracking in a future release as Spotify doesn't allow developers anymore to have a production key (it requires 250k monthly users) before you can requet to publish with a production key There for the app will only support the timer and the music tracking will only be for a select few [Thanks for understanding ♥]
+
 ---
 
 ## 📦 Download
@@ -21,27 +27,37 @@ Download the latest **Windows executable** here:
 - No Python installation needed.
 - Just run the `.exe` as **Administrator**.
 
+⚠ The Unlock shortcut is `Ctrl + O + P`
 ---
 
 ## 🔧 Features
 
 - ⏱️ **Custom or preset timers** (30 / 60 / 90 minutes)
 - 🔒 **System-wide input blocking** (mouse and keyboard)
-- 🎧 **Optional Spotify integration**
   - Shows current track info
-  - Log in or ignore—it’s your choice!
 - 🖥️ **Fullscreen, clean UI**
   - Hidden mouse
   - Big timer (Poppins font)
-  - Responsive even during login
+  - Responsive
 - 🔐 **Unlock shortcut:** `Ctrl + O + P`
 
 ---
-
+### 🖼 Screen Shots
+- Home Gui:
+[Home GUI](https://github.com/user-attachments/assets/83f74915-be44-47c3-9cc1-7f7d42d9fd05)
+---
 ## 🛠️ Setup (For Developers)
-
+Make sure you have Python 3:
+```bash
+pip install pycaw customtkinter keyboard winrt
+```
 ### 🔁 Clone the Repository
 
 ```bash
 git clone https://github.com/Amne-Dev/Focus-app.git
 cd Focus-app
+python "Focus App.pyw"
+```
+
+## 📄 License 
+Feel free to modify and use this script however you'd like — just credit **AmDev(@Amne-Dev)** if you share it publicly!
